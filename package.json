@@ -1,0 +1,14 @@
+{
+  "name": "dribble-cards",
+  "version": "1.0.0",
+  "description": "Simple UI designs of dribbble components",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
+  },
+  "author": "Saad Saif",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
